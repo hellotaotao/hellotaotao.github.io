@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
         <title>Jekyll Bootstrap</title>
-        <description>Jekyll Bootstrap - Name Lastname</description>
+        <description>Jekyll Bootstrap - Tao Wang</description>
         <link>http://hellotaotao.github.io</link>
         <atom:link href="http://hellotaotao.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 28 May 2015 06:19:29 +0930</lastBuildDate>
-        <pubDate>Thu, 28 May 2015 06:19:29 +0930</pubDate>
+        <lastBuildDate>Thu, 04 Feb 2016 00:55:02 +1030</lastBuildDate>
+        <pubDate>Thu, 04 Feb 2016 00:55:02 +1030</pubDate>
         <ttl>60</ttl>
 
 
